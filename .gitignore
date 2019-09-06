@@ -76,5 +76,5 @@ buildNumber.properties
 .idea/
 *.iml
 
-### Brackets ###
+### Brackets extension ###
 .brackets.json
